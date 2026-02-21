@@ -1,13 +1,15 @@
 #integer
+age=23
+print(age)
+
+#float
 pi = 3.14
-raio= 5
-area= pi*(raio*raio)
-print(area)
+print(pi)
 
 #string
 name= "leonardo"
 actualJob= "developer"
-print(name+actualJob)
+print(name, actualJob)
 
 #boolean
 isMale= True
